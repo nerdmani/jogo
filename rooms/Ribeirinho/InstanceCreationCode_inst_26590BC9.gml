@@ -1,0 +1,1 @@
+global.next_room = Floresta_Negra;

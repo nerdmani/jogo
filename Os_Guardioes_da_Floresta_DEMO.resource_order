@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Anotações","order":10,"path":"folders/Anotações.yy",},
+    {"name":"Caminhos","order":3,"path":"folders/Caminhos.yy",},
+    {"name":"Cenas","order":7,"path":"folders/Cenas.yy",},
+    {"name":"Conjuntos de tiles","order":1,"path":"folders/Conjuntos de tiles.yy",},
+    {"name":"Curvas da animação","order":9,"path":"folders/Curvas da animação.yy",},
+    {"name":"Extensões","order":11,"path":"folders/Extensões.yy",},
+    {"name":"Linhas do tempo","order":5,"path":"folders/Linhas do tempo.yy",},
+    {"name":"Objetos","order":6,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":12,"path":"folders/Particle Systems.yy",},
+    {"name":"Sequências","order":8,"path":"folders/Sequências.yy",},
+    {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
+    {"name":"Sons","order":2,"path":"folders/Sons.yy",},
+  ],
+  "ResourceOrderSettings":[],
+}

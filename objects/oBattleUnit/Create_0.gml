@@ -1,0 +1,1 @@
+sprite_index = sprites.idle; // "puxar" as sprites que determinados no game data
